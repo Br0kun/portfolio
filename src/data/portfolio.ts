@@ -88,13 +88,13 @@ export const CONTENT = {
       },
     },
     {
-      id: "https://github.com/Br0kun/world-app-attack-surface",
+      id: "SN-P03",
       title: "World App Security Investigation",
       badge: "Ongoing Investigation",
       category: "Security Research",
       year: null,
       status: "Ongoing",
-      repo: "#repo-bedrock",
+      repo: "https://github.com/Br0kun/world-app-attack-surface",
       desc: "An investigation into URL validation and outbound HTTP request handling in the Bedrock Rust library, exploring a potential SSRF attack surface.",
       tags: ["Application Security", "Rust", "Source Code Analysis", "SSRF Analysis", "Security Research"],
       detail: {
